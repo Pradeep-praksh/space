@@ -1,0 +1,442 @@
+
+
+.bg-black {
+    background: #2b3238;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    position: sticky;
+    top: 0;
+}
+.header {
+    width: 40%;
+    float: left;
+}
+.nav-item {
+    float: left;
+    width: 60%;
+    list-style: none;
+    margin-left: -200px;
+}
+a.nav-link {
+    letter-spacing: .02em;
+    font-weight: 500;
+    font-family: 'Jost',sans-serif;
+}
+.header h2 {
+    margin: 0;
+    margin-left: 140px;
+    font-size: 25px;
+    color: white;
+    font-family: sans-serif;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.bg-image {
+	background-image:url('../images/girl1.jpg');
+	
+}
+.container {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.top {
+    text-align: center;
+    color: white;
+    padding-top: 170px;
+    padding-bottom: 170px;
+}
+.top span {
+    font-size: 1rem;
+    font-family: 'Jost',sans-serif;
+    letter-spacing: .3em;
+}
+.top h1 {
+    margin: 0;
+    font-family: 'Jost',sans-serif;
+    font-size: 4rem;
+    letter-spacing: 0.1rem;
+    /* padding-top: 25px; */
+    padding-bottom: 10px;
+}
+.top p {
+    font-family: 'Jost',sans-serif;
+    margin-top: 0px;
+    font-size: 1.5625rem;
+    line-height: 1.5625rem;
+    margin-bottom: 30px;
+    padding: 10px 130px;
+    line-height: 1.62;
+}
+.btn-section button {
+    font-size: 1rem;
+    padding: 16px 32px;
+    border: none;
+    border-radius: 5px;
+    background: #20a997;
+    color: white;
+}
+.second-step {
+    margin-top: 50px;
+    margin-bottom: 70px;
+    width: 50%;
+    float: left;
+}
+.second-step span {
+    font-family: 'Jost',sans-serif;
+    font-size: 1rem;
+    letter-spacing: .1em;
+    line-height: 1.12;
+    font-weight: 500;
+    color: #20a997;
+}
+.second-step h3 {
+    font-size: 2.125rem;
+    font-family: 'Jost',sans-serif;
+    font-weight: 500;
+   
+    margin: 0;
+    font-style: normal;
+    line-height: 1.12;
+}
+.container-fluid {
+    overflow: hidden;
+}
+.second-step p {
+    font-size: 1.5625rem;
+    /* font-family: sans-serif; */
+    line-height: 1.65;
+    color: #383838;
+    font-family: 'Jost',sans-serif;
+    font-weight: 400;
+    margin: 0px;
+}
+.fonts {
+    width: 25%;
+    float: left;
+    text-align: center;
+}
+.fonts h1 {
+    font-size: 25px;
+    font-family: 'Jost',sans-serif;
+    font-weight: 500;
+}
+.fonts p {
+    font-family: 'Jost',sans-serif;
+    font-size: 16px;
+    color: #383838;
+    letter-spacing: normal;
+    line-height: 1.62;
+    padding: 7px 10px;
+    margin-bottom: 50px;
+    margin-top: 0;
+}
+.third-step img {
+    width: 100%;
+    height: 100vh;
+}
+.left {
+    padding-top: 13%;
+    margin-bottom: auto;
+}
+.third-step {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 50%;
+    float: left;
+}
+.third-step span {
+    font-size: 16px;
+    color: #20a997;
+    font-family: 'Jost',sans-serif;
+    letter-spacing: .3em;
+    line-height: 1.12;
+    font-weight: 500;
+}
+.third-step h2 {
+    font-size: 48px;
+    font-family: 'Jost',sans-serif;
+    text-align: left;
+    color: #2b3238;
+    letter-spacing: -.01em;
+    line-height: 1.12;
+    font-weight: 500;
+    margin: 0;
+}
+.third-step p {
+    font-size: 16px;
+    color: #383838;
+    font-family: 'Jost',sans-serif;
+    line-height: 1.62;
+    font-weight: 400;
+}
+.photo-1 img {
+    width: 29%;
+    float: left;
+    margin-right: 21px;
+    margin-left: 19px;
+    margin-bottom: 39px;
+}
+.photo-1 {
+    margin-top: 8%;
+}.center h1 {
+    color: white;
+    width: 31%;
+    height: 232px;
+    border: 1px solid;
+    float: left;
+    margin: 0;
+    background: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 19px;
+    margin-left: 18px;
+}
+.left2 {
+    height: 520px;
+    width: 30%;
+    float: left;
+    background: blue;
+    margin: 0;
+    margin-left: 39px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 39px;
+}
+.right1 {
+    width: 32%;
+    height: 240px;
+    float: left;
+    background: lawngreen;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin-right: 17px;
+    margin-left: 0px;
+}
+.photo-2 img {
+    width: 65%;
+    float: left;
+    margin-bottom: 39px;
+    /* margin-right: 20px; */
+}
+.left img {
+    width: 30%;
+    margin-left: 39px;
+	height: 520px;
+	
+}
+.last {
+    padding-bottom: 150px;
+}
+.examples {
+    text-align: center;
+    margin-top: 150px;
+}
+.examples h1 {
+    color: #20a997;
+    font-size: 16px;
+    font-family: 'Jost',sans-serif;
+    letter-spacing: .3em;
+    /* margin-bottom: 4px; */
+    font-weight: 500;
+    margin: 0;
+
+}
+.examples h2 {
+    padding-bottom: 15px;
+    padding-top: 15px;
+    font-size: 48px;
+    margin: 0;
+    font-family: 'Jost',sans-serif;
+    letter-spacing: -.01em;
+    font-weight: 500;
+    line-height: 1.12;
+    color: #2b3238;
+}
+.examples-1 img {
+    width: 30%;
+    float: left;
+    margin-right: 22px;
+    margin-left: 22px;
+    margin-top: 40px;
+    margin-bottom: 150px;
+}
+.middle {
+    margin-top: 25px;
+    margin-bottom: 100px;
+    text-align: center;
+    padding: 0 103px;
+}
+.middle p {
+    margin: 0;
+    font-size: 34px;
+    line-height: 1.1;
+    font-family: 'Jost',sans-serif;
+    color: #383838;
+}
+.middle h1 {
+    color: #2b3238;
+    font-size: 25px;
+    margin: 0;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-family: sans-serif;
+    line-height: 1.62;
+    font-weight: 200;
+}
+.middle span {
+    font-weight: 600;
+    font-size: 15px;
+    color: #a1ce55;
+    font-family: 'Jost',sans-serif;
+}
+.last-thrid {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.last-thrid img {
+    width: 50%;
+    float: left;
+    margin-right: 70px;
+}
+.last-thrid h1 {
+    padding-top: 50px;
+    font-size: 34px;
+    font-family: 'Jost',sans-serif;
+    line-height: 1.12;
+    font-weight: 500;
+    margin: 0;
+}
+.last-thrid li {
+    font-size: 18px;
+    color: #383838;
+    font-family: 'Jost',sans-serif;
+    line-height: 2.9;
+    list-style: none;
+	 font-weight: 400;
+}
+.last-thrid p {
+    font-size: 16px;
+    font-family: 'Jost',sans-serif;
+    line-height: 1.62;
+    color: #383838;
+    font-weight: 400;
+    margin: 0;
+    padding-bottom: 35px;
+}
+.last-second {
+    margin-top: 100px;
+    margin-bottom: 70px;
+    text-align: center;
+}
+.last-second h1 {
+    color: #20a997;
+    font-family: 'Jost',sans-serif;
+    font-size: 16px;
+    letter-spacing: .3em;
+    line-height: 1.12;
+    margin: 0;
+}
+.last-second span {
+    color: #2b3238;
+    font-family: 'Jost',sans-serif;
+    font-size: 48px;
+    letter-spacing: -.01em;
+    font-weight: 500;
+    line-height: 1.12;
+}
+.lasted-1 img {
+    width: 22%;
+    float: left;
+    margin-right: 18px;
+    margin-left: 18px;
+    height: 250px;
+}
+.container-fluid.bg-black2 {
+    background: #2b3238;
+    margin-top: 90px;
+    height: 470px;
+}
+.last-bottom {
+    padding-top: 100px;
+    width: 29%;
+    float: left;
+    margin-right: 26px;
+    margin-left: 25px;
+}
+.last-bottom h3 {
+    font-family: 'Jost',sans-serif;
+    font-size: 2.125rem;
+    color: white;
+    font-weight: 500;
+    margin: 0px;
+}
+.last-bottom p {
+	color: white;
+    font-family: 'Jost',sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    line-height: 1.62;
+    font-weight: 400;
+}
+.input-type {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+input[type="text"] {
+    font-family: 'Jost',sans-serif;
+    font-size: 1rem;
+    padding: 0px 22px;
+    background-color: transparent;
+    border: 1px solid #616161;
+    height: 55px;
+    letter-spacing: -0.02em;
+    padding-right: 75px;
+    color: #cccccc;
+}
+.last-bottom li {
+    list-style: none;
+    color: white;
+    font-family: 'Jost',sans-serif;
+    font-size: 1rem;
+    padding-bottom: 12px;
+}
+body a {
+    text-decoration: none;
+    color: white;
+
+}
+.fa {
+	    color: black;
+    width: 35px;
+    height: 25px;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 30px;
+}
+.fa-instagram {
+    background: deepskyblue;
+}
+.fa-twitter {
+    background: white;
+}
+.fa-facebook-f {
+    background: yellowgreen;
+}
+.icons {
+    width: 15%;
+    float: left;
+    margin-bottom: 25px;
+}
+.input-type a {
+    font-size: 18px;
+    position: relative;
+    left: -35px;
+    /* border-right: 1px solid white; */
+}
